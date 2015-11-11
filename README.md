@@ -1,2 +1,2 @@
 # foldering
-auto matic foldering - shine business solutions
+automatic foldering - shine business solutions
